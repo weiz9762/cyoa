@@ -1,4 +1,4 @@
-# Ignore and Independent
+# Captive
 ---
 There is no point to make friend, you thought, only one of us can survive and friend can only stab you in the back. It's dangerous to travel with a stranger in the Hunger Game, so you decided to ignore the hand in the air and to be independent in the Game.
 
