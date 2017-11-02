@@ -4,6 +4,6 @@ There is no point to make friend, you thought, only one of us can survive and fr
 
 However, you never have experience of fighting or survive in a unfamiliar environment. You were quickly catched by the career tribute, who was trained for the game, and now you have two choice ...
 
-[Escape](escape.md) 
-_or_
-[Join Career's Pack](follow.md)
+[Escape](escape.md)  
+_or_  
+[Join Career's Pack](follow.md)  
