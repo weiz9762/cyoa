@@ -1,4 +1,7 @@
-## against 
-----
+# Useless Resistence
+---
 
-Y
+
+
+
+[End 2](../endings/end-2.md)
