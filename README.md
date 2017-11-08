@@ -1,4 +1,4 @@
-The purpose of creating this repository was to...
+The purpose of creating this repository was to making people enjoy the story that I create, but also training my skill in Git&GitHub. In addition, because it's a pair project, this project also trains my corporation and communication skill.
 
 Click [here](situations/casting-ceremony.md) to begin!
 
